@@ -23,11 +23,6 @@ Pie charts representing male and female vaccination distribution.
 Bar charts for top vaccinated states.
 
 # Installation
-Clone the repository:
-git clone https://github.com/mahad-malik/covid-data-analysis.git
-
-Navigate to the project directory:
-
 cd covid-data-analysis
 
 Install the required dependencies:
@@ -47,10 +42,3 @@ The COVID-19 case data is sourced from Kaggle.
 Vaccination data was collected from publicly available government sources.
 Running the Project
 
-Run the Jupyter notebook or Python script to generate the data analysis and visualizations:
-
-jupyter notebook covid_analysis.ipynb
-Or, for Python script:
-
-python covid_analysis.py
-The outputs include various graphs that analyze COVID-19 trends across states in India, vaccination progress, and gender-based vaccination distributions.
