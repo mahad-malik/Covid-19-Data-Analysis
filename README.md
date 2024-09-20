@@ -24,7 +24,7 @@ Bar charts for top vaccinated states.
 
 # Installation
 Clone the repository:
-git clone https://github.com/yourusername/covid-data-analysis.git
+git clone https://github.com/mahad-malik/covid-data-analysis.git
 
 Navigate to the project directory:
 
